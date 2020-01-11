@@ -1,0 +1,34 @@
+{
+  "name": "yuurei",
+  "version": "0.0.1",
+  "description": "a really cool bot brother",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsth00d4567/YUUREI.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "javascript",
+    "yuurei",
+    "wsth00d4567",
+    "Shryder1337"
+  ],
+  "author": "wsth00d4567, Shryder1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsth00d4567/YUUREI/issues"
+  },
+  "homepage": "https://github.com/wsth00d4567/YUUREI#readme",
+  "devDependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
